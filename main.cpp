@@ -17,6 +17,9 @@ int main() {
     if(true)
     {
         std::cout << "Ciul" << std::endl;
+    if(false)
+    {
+        std::cout << "asdasd" << std::endl;
     }
     return 0;
 }
