@@ -14,5 +14,9 @@ int main() {
     for (int i = 0; i < 200; i++) {
         std::cout << "xD" << std::endl;
     }
+    if(true)
+    {
+        std::cout << "Ciul" << std::endl;
+    }
     return 0;
 }
