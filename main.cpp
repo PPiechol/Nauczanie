@@ -11,5 +11,8 @@ int main() {
     for (int i = 0; i < 115; i++) {
         std::cout << "z kurwami" << std::endl;
     }
+    for (int i = 0; i < 200; i++) {
+        std::cout << "xD" << std::endl;
+    }
     return 0;
 }
